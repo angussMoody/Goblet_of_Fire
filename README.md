@@ -17,10 +17,10 @@ En este reto, tu misión es hacer lo mismo: abusar de una vulnerabilidad para qu
 
 ## Requisitos
 
+Aunque el reto puede ejecutarse directamente en local, también tienes la opción de levantar el contenedor Docker (o Podman) para exponerlo en el puerto 5000. Esto te permitirá simular un entorno más realista de CTF, en el que deberás conectarte de manera remota al servicio vulnerable y practicar tanto con un exploit local como con uno remoto.
 
-Aunque el reto está diseñado para ejecutarse de forma local, también puedes levantar el contenedor Docker para exponerlo en un puerto específico. De esta manera, la experiencia se asemeja más a un entorno real de CTF, donde deberás conectarte de manera remota al servicio vulnerable. y así practicar con un exploit Local y uno Remoto
+⚙️ Requisito: tener instalado Docker o Podman en tu sistema.
 
-- Docker o Podman
 
 ## Instrucciones
 
