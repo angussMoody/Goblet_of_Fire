@@ -42,8 +42,11 @@ o
 docker run --rm -p 5000:5000 goblet_of_fire
 
 
-3. Ejecutar el ambiennte 
+3. Ejecutar el ambiente 
 
 nc 127.0.0.1 5000
 
+o
+
+nc localhost 5000
 
